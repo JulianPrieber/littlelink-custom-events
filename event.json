@@ -1,10 +1,10 @@
 {  
-  "title":"Title of the event",
-  "hover":"Hover text",
+  "title":"📝 New poll ➡️ Should a database editor be implemented into LittleLink Custom? Click here to vote.",
+  "hover":"Click to vote",
   "target":"_blank",
-  "style":"color:#F75D59; font-weight:600;",
+  "style":"color:#F75D59; font-weight:600; font-size:15px; font-family:'Special Elite', sans-serif;",
   "hoveroff":"this.style.color='#F75D59'",
   "hoveron":"this.style.color='#FFA07A'",
-  "link":"https://google.com",
-  "enddate":"20-03-2022"
+  "link":"https://survey.littlelink-custom.com/index.php?r=survey/index&sid=667486&lang=en",
+  "enddate":"22-04-2022"
 }
