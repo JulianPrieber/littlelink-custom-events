@@ -1,6 +1,6 @@
 {  
-  "title":"This is a test",
-  "hover":"Hover test",
+  "title":"Title of the event",
+  "hover":"Hover text",
   "target":"_blank",
   "style":"color:#F75D59; font-weight:600;",
   "hoveroff":"this.style.color='#F75D59'",
