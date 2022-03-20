@@ -1,0 +1,10 @@
+{  
+  "title":"This is a test",
+  "hover":"Hover test",
+  "target":"_blank",
+  "style":"color:#F75D59; font-weight:600;",
+  "hoveroff":"this.style.color='#F75D59'",
+  "hoveron":"this.style.color='#FFA07A'",
+  "link":"https://google.com",
+  "enddate":"20-03-2022"
+}
