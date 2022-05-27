@@ -1,11 +1,11 @@
 {  
-  "title":"🆕 New Button Editor ➡️ Infinite buttons! The new Button Editor has just been released. Click to learn more.",
+  "title":"🆕 Added automatic update support. Click to learn more.",
   "hover":"Click to learn more",
   "target":"_blank",
   "style":"color:#F75D59; font-weight:600; font-size:15px; font-family:'Special Elite', sans-serif;",
   "hoveroff":"this.style.color='#F75D59'",
   "hoveron":"this.style.color='#17a2b8'",
-  "link":"https://littlelink-custom.com/blog/the-new-button-editor/",
-  "enddate":"12-05-2022",
-  "id":"2"
+  "link":"https://littlelink-custom.com/blog/last-update/",
+  "enddate":"07-06-2022",
+  "id":"3"
 }
